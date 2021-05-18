@@ -1,0 +1,6 @@
+mybot/*.log
+mybot/*.txt
+mybot/settings.py
+mybot/__pycahche__
+.DS_Store
+
